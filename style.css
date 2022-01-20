@@ -1,0 +1,91 @@
+body{
+    margin: 5% 25%;
+}
+
+#contact-us{
+    box-shadow: 3px 3px 20px 8px #0295fe49;
+    border-radius: 10px;
+    padding: 0px 0% 3% 5%;
+    font-family: 'Segoe UI';
+
+     /* background-image: -webkit-linear-gradient(top, #0295fe49, #fafafa49); */
+    /* background-image: -moz-linear-gradient(top, #fafafa49, #fafafa49);
+    background-image: -ms-linear-gradient(top, #fafafa49, #fafafa49);
+    background-image: -o-linear-gradient(top, #fafafa49, #fafafa49);
+    background-image: -webkit-gradient(to bottom, #fafafa49, #fafafa49); */
+}
+
+#contact-heading{
+    text-align: center;
+    text-decoration: underline 4px #0295fe49;
+    font-weight: 700;
+    font-size: 40px;
+    padding-top: 15px;
+}
+
+.set{
+    display: block;
+}
+
+.input{
+    margin-bottom: 2%;
+    padding-left: 0.5%;
+    border-radius: 5px;
+    border: 2px solid #0295fe49;
+    height: 40px;
+    width: 40%;
+    /* color: #0295fe; */
+    
+}
+
+.input:hover{
+    border: 2px solid #0295fe;
+    background-color: #bde3ff67;
+    
+}
+
+.blue{
+    color: #0295fe;
+}
+
+#message{
+    height: 90px;
+    width: 40%;
+}
+
+label{
+    padding-left: 2px;
+}
+
+.image{
+    height: 370px;
+    width: 45%;
+    float: right;
+    margin-right: 3%;
+    margin-bottom: -5%;
+    border-radius: 10px;
+}
+
+#name, #phone{
+    margin-right: 2%;
+}
+
+#submit-btn{
+    display: block;
+    margin-top: 5px;
+    margin-left: 14.3%;
+    padding: 1% 2%;
+    background-color: #0295fe;
+    border: 2px solid #0295fe;
+    color: white;
+    border-radius: 6px;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+#submit-btn:hover{
+    cursor: pointer;
+    background-color: white;
+    color: #0295fe;
+    border: 2px solid #0295fe;
+}
