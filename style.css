@@ -23,10 +23,6 @@ body{
     padding-top: 15px;
 }
 
-.set{
-    display: block;
-}
-
 .input{
     margin-bottom: 2%;
     padding-left: 0.5%;
@@ -34,7 +30,6 @@ body{
     border: 2px solid #0295fe49;
     height: 40px;
     width: 40%;
-    /* color: #0295fe; */
     
 }
 
