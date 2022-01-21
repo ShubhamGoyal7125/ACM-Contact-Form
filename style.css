@@ -8,7 +8,7 @@ body{
     padding: 0px 0% 3% 5%;
     font-family: 'Segoe UI';
 
-    background-image: -webkit-linear-gradient(top, #0295fe49, #fafafa49);
+    /* background-image: -webkit-linear-gradient(top, #0295fe49, #fafafa49); */
     /* background-image: -moz-linear-gradient(top, #fafafa49, #fafafa49);
     background-image: -ms-linear-gradient(top, #fafafa49, #fafafa49);
     background-image: -o-linear-gradient(top, #fafafa49, #fafafa49);
