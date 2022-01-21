@@ -1,6 +1,6 @@
 # ACM USICT-Contact-Form
 The UI of the Contact form for ACM Usict Website.
-I have made this form without bootstrap/tailwind, only pure code.
+I have made this form without using bootstrap/tailwind, only pure code.
 
 1. Contact form -->
 
@@ -15,3 +15,7 @@ I have made this form without bootstrap/tailwind, only pure code.
 3. Image of the contact form when we hover on submit button -->
 
 ![acm-contact-form-image3](https://user-images.githubusercontent.com/85388284/150305714-58034c3b-cf49-459e-9deb-9c5bdc9dbdc1.png)
+
+4. Image of the contact form on using webkit-linear-gradient by uncommenting the style.css line number 11 -->
+
+![acm-contact-from-image4](https://user-images.githubusercontent.com/85388284/150474703-90132830-e920-4fda-a744-ca299808c8f2.png)
